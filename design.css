@@ -1,0 +1,121 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+  width: 100%;
+  text-align: center;
+  margin: auto;
+}
+a {
+  text-decoration: none;
+  color: orange;
+  font-size: 14px;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+.button1 {
+  background: orange;
+  color: white;
+  padding-left: 12px;
+  padding-right: 12px;
+  border: none;
+  height: 59px;
+  width: 30%;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.button2 {
+  background: blue;
+  padding-left: 9px;
+  padding-right: 9px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  color: white;
+  border: none;
+  margin-bottom: 33px;
+  margin: 6px;
+  border: blue 2px solid;
+  border-radius: 8%;
+}
+.button2:hover {
+  background: rgb(21, 145, 223);
+}
+.button1:hover {
+  background: rgb(209, 146, 29)
+}
+.star {
+  color:orange;
+}
+.container1 {
+  background: black;
+  color: white;
+  padding-left: 60px; 
+  padding-right: 60px; 
+}
+.container1 ul li {
+  list-style-type: none;
+}
+.container1 h1 {
+  font-size: 42px;
+}
+#drinks h1 {
+  font-size: 35px;
+}
+
+#bruno .container {
+  background: black;
+  color: white;
+  padding: 20px;
+  padding-left: 150px;
+  padding-right: 150px;
+  text-align: left;
+  padding-bottom: 42px;
+}
+#bruno h2 {
+  text-align: center;
+}
+#food .container a {
+  color: blue;
+  font-size: 18px;
+}
+#food .container h1 {
+  padding: 24px;
+  font-size: bold;
+}
+#food .container {
+  padding: 32px;
+  width: 100%;
+  width: auto;
+}
+#iconzone .container {
+  background: lightgray;
+  padding: 22px;
+}
+#iconzone .container a {
+  color: blue;
+  padding: 22px;
+}
+#free .container {
+  background: black;
+  color: white;
+  padding: 40px;
+}
+#free .container a:hover {
+  text-decoration: underline;
+}
+#free .heap {
+  padding-bottom: 15px;
+}
+.phase {
+  float: left;
+  width: 48%;
+  background: white;
+  
+}
+.key {
+  float: left;
+  width: 33%;
+  padding-bottom: 22px; 
+}
